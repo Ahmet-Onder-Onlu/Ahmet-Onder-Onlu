@@ -15,16 +15,16 @@ Safa Kılıçkaya
 Zaid Almoughrabi
 
 # 💫 Projects:
-[GenAI](https://github.com/Burak-Akca/GenAI-Projects)
-[Langraph](https://github.com/Burak-Akca/Langraph-project)
-[Chatbot with RAG](https://github.com/Burak-Akca/Basic-React-Web-ChatbotWith_RAG)
-[Google Generative AI](https://github.com/Burak-Akca/Medical_Chatbot_With_GoogleGenerativeAI)
-[Tubitak Transformer with Super Computer](https://github.com/Ahmet-Onder-Onlu/tubitakTransformerwithSuperComputer)
-[Face Recognition Detection](https://github.com/Ahmet-Onder-Onlu/faceRecognitionDetection)
-[YoloV8 Multi Face Recognition](https://github.com/Ahmet-Onder-Onlu/YoloV8MultiFaceRecognition)
+[GenAI](https://github.com/Burak-Akca/GenAI-Projects)<br>
+[Langraph](https://github.com/Burak-Akca/Langraph-project)<br>
+[Chatbot with RAG](https://github.com/Burak-Akca/Basic-React-Web-ChatbotWith_RAG)<br>
+[Google Generative AI](https://github.com/Burak-Akca/Medical_Chatbot_With_GoogleGenerativeAI)<br>
+[Tubitak Transformer with Super Computer](https://github.com/Ahmet-Onder-Onlu/tubitakTransformerwithSuperComputer)<br>
+[Face Recognition Detection](https://github.com/Ahmet-Onder-Onlu/faceRecognitionDetection)<br>
+[YoloV8 Multi Face Recognition](https://github.com/Ahmet-Onder-Onlu/YoloV8MultiFaceRecognition)<br>
 
 ## 🌐 Socials:
-[[LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ahmet-önder-önlü) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:onluahmetonder@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ahmet-önder-önlü) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:onluahmetonder@gmail.com) 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
