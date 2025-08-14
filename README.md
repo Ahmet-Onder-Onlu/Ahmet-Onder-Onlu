@@ -1,7 +1,7 @@
 # 👤 About Me:
 I'm a dedicated and adaptable professional, experienced in both individual and team settings. My strengths lie in in-depth research, effective communication, and a passion for integrating new technologies. I've built a solid foundation in AI, data science, and software development through formal training and hands-on project involvement (Teknofest, technoparks), encompassing research, planning, and product development. My goal is to continually enhance my technical expertise.
 
-#  💫 About Our Team "Berceste":
+#  💫 About Our Team "Medi4X":
 We are a four-member Teknofest team dedicated to leveraging artificial intelligence technologies to solve real-world problems in an effective and efficient manner. We aim to contribute to the technological transformations driven by AI in the future.
 
 Our work spans across several domains of AI, including text-based classification tasks, computer vision applications, and large language models (LLMs). We have implemented various solutions using transfer learning and fine-tuning methods to adapt pre-trained models to our specific tasks.
