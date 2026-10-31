@@ -1,45 +1,60 @@
-# 👤 About Me:
-I'm a dedicated and adaptable professional, experienced in both individual and team settings. My strengths lie in in-depth research, effective communication, and a passion for integrating new technologies. I've built a solid foundation in AI, data science, and software development through formal training and hands-on project involvement (Teknofest, technoparks), encompassing research, planning, and product development. My goal is to continually enhance my technical expertise.
+# Ahmet Önder Önlü
 
-#  💫 About Our Team "Medi4X":
-We are a four-member Teknofest team dedicated to leveraging artificial intelligence technologies to solve real-world problems in an effective and efficient manner. We aim to contribute to the technological transformations driven by AI in the future.
+**Computer Engineer · AI, RAG & Data Systems**
 
-Our work spans across several domains of AI, including text-based classification tasks, computer vision applications, and large language models (LLMs). We have implemented various solutions using transfer learning and fine-tuning methods to adapt pre-trained models to our specific tasks.
+[LinkedIn](https://www.linkedin.com/in/ahmet-%C3%B6nder-%C3%B6nl%C3%BC/) &nbsp; / &nbsp; [Medium](https://medium.com/@ahmetonderonlu) &nbsp; / &nbsp; [NutriCare — live project](https://www.nutricaretek.com)
 
-In the field of computer vision, we have worked with convolutional neural networks (CNNs) and YOLO architectures to develop object detection systems. In natural language processing (NLP), we have built classification and inference-focused models for processing textual data.
+<p align="center">
+  <img src="assets/geometry.gif" width="1000" alt="Five colourful geometric shapes — a square, rectangle, circle, triangle and hexagon — rotating at different speeds and in different directions." />
+</p>
 
-# 🧑‍💻 Team Members:
-Ahmet Önder Önlü<br>
-Burak Akça<br>
-Safa Kılıçkaya<br>
-Zaid Almoughrabi<br>
+## A little about me
 
-# 🚀 Our Projects:
-[GenAI](https://github.com/Burak-Akca/GenAI-Projects)<br>
-[Langraph](https://github.com/Burak-Akca/Langraph-project)<br>
-[Chatbot with RAG](https://github.com/Burak-Akca/Basic-React-Web-ChatbotWith_RAG)<br>
-[Google Generative AI](https://github.com/Burak-Akca/Medical_Chatbot_With_GoogleGenerativeAI)<br>
-[Tubitak Transformer with Super Computer](https://github.com/Ahmet-Onder-Onlu/tubitakTransformerwithSuperComputer)<br>
-[Face Recognition Detection](https://github.com/Ahmet-Onder-Onlu/faceRecognitionDetection)<br>
-[YoloV8 Multi Face Recognition](https://github.com/Ahmet-Onder-Onlu/YoloV8MultiFaceRecognition)<br>
+I'm a computer engineer and an **M.Sc. student in Computer Engineering at İstanbul Technical University**. I graduated from **Marmara University** with a **3.67 GPA**, ranking **third in my department**.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ahmet-önder-önlü) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:onluahmetonder@gmail.com) 
+My work connects applied research with working software: retrieval-augmented generation, data systems, distributed deep learning and autonomous path planning. I enjoy understanding how a method works, measuring its behaviour, and turning it into something people can use.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ahmet-Onder-Onlu&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ahmet-Onder-Onlu&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmet-Onder-Onlu&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+My internship experience spans database management, AI software and embedded software, including work at Baykar. I was also a **TEKNOFEST AI in Healthcare finalist**, working with diffusion MRI and deep learning.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ahmet-Onder-Onlu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## Selected projects
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### [NutriCare](https://github.com/Ahmet-Onder-Onlu/nutricare-chatbotui) · [Try it live ↗](https://www.nutricaretek.com)
+A food–drug interaction assistant that connects conversational questions to structured database records through MCP tools. Includes source-grounded answers, direct food/drug search, verified-email authentication and organised chat history.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ahmet-Onder-Onlu&limit=5&theme=dark&combine_all_yearly_contributions=true)
+`Next.js` · `TypeScript` · `Supabase / PostgreSQL` · `Gemini` · `MCP`
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### [Marmara Advanced RAG Benchmark Lab](https://github.com/Ahmet-Onder-Onlu/RagMethodsBenchmark)
+An environment for comparing retrieval strategies on the same documents and questions: standard, hybrid, reranking, multi-query and hierarchical retrieval. Uses a Streamlit interface, local Ollama generation and Gemini-based evaluation, with timing and source-grounding metrics.
+
+`Python` · `Ollama` · `Chroma` · `FAISS` · `LLM-as-a-Judge`
+
+### [Transformer Training on a Supercomputer](https://github.com/Ahmet-Onder-Onlu/tubitakTransformerwithSuperComputer)
+Custom Transformer sentiment-classification experiments on TÜBİTAK TRUBA / ARF infrastructure. Explores distributed training with DDP and FSDP, GPU monitoring and TensorBoard logging.
+
+`PyTorch Lightning` · `CUDA` · `DDP / FSDP` · `SLURM`
+
+### [3D Path Planning](https://github.com/Ahmet-Onder-Onlu/path_planning_algorithms_3D)
+UAV path-planning experiments combining PRM graphs, D* Lite / Theta* global planning, trajectory smoothing and dynamic obstacle avoidance. Includes simulation outputs and comparisons between planning methods.
+
+`Python` · `Motion Planning` · `Simulation` · `Optimisation`
+
+## Tools I work with
+
+| Area | Toolkit |
+| :--- | :--- |
+| AI & retrieval | Python, PyTorch, Hugging Face, LLMs / VLMs, RAG |
+| Data & infrastructure | SQL, PostgreSQL, Docker, Linux, AWS |
+| Training & evaluation | CUDA, SLURM, TensorBoard, benchmark pipelines |
+| Product development | TypeScript, Next.js, Git, API integration |
+
+## Beyond the code
+
+I write on [Medium](https://medium.com/@ahmetonderonlu) and share my professional journey on [LinkedIn](https://www.linkedin.com/in/ahmet-%C3%B6nder-%C3%B6nl%C3%BC/). My interests sit where research, engineering and useful applications meet.
+
+### A quote for the next experiment
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=radical" alt="Random developer quote" />
+</p>
+
+<sub>The geometry animation is generated locally with Python; its source lives in <a href="scripts/generate_geometry.py">scripts/generate_geometry.py</a>.</sub>
