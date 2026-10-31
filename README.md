@@ -5,7 +5,7 @@
 [LinkedIn](https://www.linkedin.com/in/ahmet-%C3%B6nder-%C3%B6nl%C3%BC/) &nbsp; / &nbsp; [Medium](https://medium.com/@ahmetonderonlu) &nbsp; / &nbsp; [NutriCare — live project](https://www.nutricaretek.com)
 
 <p align="center">
-  <img src="assets/geometry.gif" width="1000" alt="Five colourful geometric shapes — a square, rectangle, circle, triangle and hexagon — rotating at different speeds and in different directions." />
+  <img src="assets/geometry.gif" width="1000" alt="Five colourful geometric shapes — a square, rectangle, circle, triangle and hexagon — rotating, bursting into fragments one by one and rapidly reassembling." />
 </p>
 
 ## A little about me
@@ -15,6 +15,10 @@ I'm a computer engineer and an **M.Sc. student in Computer Engineering at İstan
 My work connects applied research with working software: retrieval-augmented generation, data systems, distributed deep learning and autonomous path planning. I enjoy understanding how a method works, measuring its behaviour, and turning it into something people can use.
 
 My internship experience spans database management, AI software and embedded software, including work at Baykar. I was also a **TEKNOFEST AI in Healthcare finalist**, working with diffusion MRI and deep learning.
+
+<p align="center">
+  <img src="assets/signal-flow.gif" width="1000" alt="Blue and violet signals travelling along two interwoven paths." />
+</p>
 
 ## Selected projects
 
@@ -47,6 +51,10 @@ UAV path-planning experiments combining PRM graphs, D* Lite / Theta* global plan
 | Training & evaluation | CUDA, SLURM, TensorBoard, benchmark pipelines |
 | Product development | TypeScript, Next.js, Git, API integration |
 
+<p align="center">
+  <img src="assets/signal-flow.gif" width="1000" alt="Blue and violet signals travelling along two interwoven paths." />
+</p>
+
 ## Beyond the code
 
 I write on [Medium](https://medium.com/@ahmetonderonlu) and share my professional journey on [LinkedIn](https://www.linkedin.com/in/ahmet-%C3%B6nder-%C3%B6nl%C3%BC/). My interests sit where research, engineering and useful applications meet.
@@ -57,4 +65,4 @@ I write on [Medium](https://medium.com/@ahmetonderonlu) and share my professiona
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=radical" alt="Random developer quote" />
 </p>
 
-<sub>The geometry animation is generated locally with Python; its source lives in <a href="scripts/generate_geometry.py">scripts/generate_geometry.py</a>.</sub>
+<sub>The motion graphics are generated locally with Python; their source lives in <a href="scripts/generate_geometry.py">scripts/generate_geometry.py</a>.</sub>
